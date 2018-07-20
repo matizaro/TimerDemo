@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TimerView">
+        <attr name="arcAngle" format="float" />
+    </declare-styleable>
+    <declare-styleable name="SwipeView">
+        <attr name="buttonsNumber" format="integer" />
+    </declare-styleable>
+</resources>

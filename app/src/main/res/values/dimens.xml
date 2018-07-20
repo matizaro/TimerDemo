@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ring_thickness">30dp</dimen>
+    <dimen name="ring_size">300dp</dimen>
+    <dimen name="ring_size_inner">292dp</dimen>
+</resources>

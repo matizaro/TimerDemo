@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TimerDemo</string>
+    <string name="clock_path">M 50,01 L 50,09</string>
+</resources>

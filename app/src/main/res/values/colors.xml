@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_color">#FC6152</color>
+    <color name="bg_color_blue">#222F3F</color>
+    <color name="clock_color">#FFA441</color>
+    <color name="clock_color_with_transparency">#6FFFA441</color>
+    <color name="white">#FFFFFF</color>
+</resources>
