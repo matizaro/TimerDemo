@@ -92,6 +92,7 @@ class MainActivity : AppCompatActivity() {
 
     override fun onStop() {
         super.onStop()
+        circular_clock.reset()
         controller.cancelTimer()
     }
 }
